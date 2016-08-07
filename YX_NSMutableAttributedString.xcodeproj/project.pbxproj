@@ -13,6 +13,7 @@
 		2FFCE9D71D573F7000160085 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FFCE9D51D573F7000160085 /* Main.storyboard */; };
 		2FFCE9D91D573F7000160085 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FFCE9D81D573F7000160085 /* Assets.xcassets */; };
 		2FFCE9DC1D573F7000160085 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FFCE9DA1D573F7000160085 /* LaunchScreen.storyboard */; };
+		2FFCE9E41D573FA600160085 /* icon_aboutmy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FFCE9E31D573FA600160085 /* icon_aboutmy@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2FFCE9D81D573F7000160085 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FFCE9DB1D573F7000160085 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FFCE9DD1D573F7000160085 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FFCE9E31D573FA600160085 /* icon_aboutmy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon_aboutmy@2x.png"; path = "../../git_project/fuwenben/fuwenben/icon_aboutmy@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		2FFCE9CB1D573F7000160085 /* YX_NSMutableAttributedString */ = {
 			isa = PBXGroup;
 			children = (
+				2FFCE9E31D573FA600160085 /* icon_aboutmy@2x.png */,
 				2FFCE9CF1D573F7000160085 /* AppDelegate.h */,
 				2FFCE9D01D573F7000160085 /* AppDelegate.m */,
 				2FFCE9D21D573F7000160085 /* ViewController.h */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2FFCE9DC1D573F7000160085 /* LaunchScreen.storyboard in Resources */,
+				2FFCE9E41D573FA600160085 /* icon_aboutmy@2x.png in Resources */,
 				2FFCE9D91D573F7000160085 /* Assets.xcassets in Resources */,
 				2FFCE9D71D573F7000160085 /* Main.storyboard in Resources */,
 			);
